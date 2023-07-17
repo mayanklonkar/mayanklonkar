@@ -1,4 +1,13 @@
 ### Hi there 👋
+I am Mayank, a Pre-final year student at Visvesvaraya National Institute of Technology, Nagpur India pursuing my Bachelor of Technology in Mechanical Engineering.
+
+- 🤖 Member at IvLabs,VNIT
+- 🔭 I’m currently working on Aerial robotics
+- 📫 You can reach me at mayanklonkar.2602@gmail.com
+  
+
+
+ 
 
 <!--
 **mayanklonkar/mayanklonkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
