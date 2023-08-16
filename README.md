@@ -1,9 +1,10 @@
 ### Hi there 👋
-I am Mayank, a Pre-final year student at Visvesvaraya National Institute of Technology, Nagpur India pursuing my Bachelor of Technology in Mechanical Engineering.
+I am Mayank, a Pre-final year student at Visvesvaraya National Institute of Technology, Nagpur India.
 
-- 🤖 Member at IvLabs,VNIT
-- 🔭 I’m currently working on Aerial robotics
-- 📫 You can reach me at mayanklonkar.2602@gmail.com
+- 🦾 I'm pursuing my Bachelor of Technology in Mechanical Engineering.
+- 🤖 I'm interested in Robotics, Aerodynamics and a member of IvLabs, Robotics and AI Lab of VNIT.
+- 🔭 I’m currently working on Aerial robotics.
+- 📫 I'm always interested in connecting new people with similar interests , contact me at mayanklonkar.2602@gmail.com
   
 
 
