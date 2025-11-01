@@ -1,10 +1,11 @@
 ### Hi there 👋
-I am Mayank, a Pre-final year student at Visvesvaraya National Institute of Technology, Nagpur India.
+I am Mayank, pursuing an MS (research) in Aerospace Engineering from IIT Madras
 
-- 🦾 I'm pursuing my Bachelor of Technology in Mechanical Engineering.
-- 🤖 I'm interested in Robotics, Aerodynamics and a member of IvLabs, Robotics and AI Lab of VNIT.
+- 🦾 I have completed my B.Tech in Mechanical Engineering from Visvesvaraya National Institute of Technology (NIT), Nagpur
+- ⚡ I'm interested in Aerodynamics and Aircraft design, especially applied to UAVs.
+- 🤖 I was a part of IvLabs, the Robotics and AI Lab of VNIT.
 - 🔭 I’m currently working on Aerial robotics.
-- 📫 I'm always interested in connecting new people with similar interests , contact me at mayanklonkar.2602@gmail.com
+- 📫 I'm always interested in connecting with new people with similar interests. Contact me at mayanklonkar.2602@gmail.com
   
 
 
@@ -22,5 +23,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
